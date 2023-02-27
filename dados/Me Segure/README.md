@@ -1,0 +1,29 @@
+## Me Segure Dicionário de dados
+
+- CPF/CNPJ do Produtor: CNPJ do escritório parceiro da Me Segure
+- Negócio Origem: Tipo de origem do negócio
+- Contrato: Número do Contrato para os produtos nos quais é aplicável
+- Nome Estipulante: Irrelevante para o desafio
+- CNPJ: Irrelevante para o desafio
+- Código Subestipulante: Irrelevante para o desafio
+- Produto: Irrelevante para o desafio
+- Nº Fatura: Irrelevante para o desafio
+- Valor da Fatura (R$): Irrelevante para o desafio
+- Nome do Segurado: Nome do cliente Segurado
+- Matrícula: Código interno do Cliente na Me Segure
+- CPF: CPF do Cliente
+- Inscrição: Identificador do contrato na Me Segure
+- Plano: Descrição do Plano do produto
+- Plano ID: Código Identificador do Plano
+- Valor Base (R$): Valor base do contrato
+- Parcela: Parcela referente à comissão paga
+- Comissão (R$): Valor da comissão destinada ao Escritório
+- %: Percentual do Valor base usado para o cálculo da Comissão
+- Estorno (R$): Irrelevante para o desafio
+- Incentivo(R$): Irrelevante para o desafio
+- Código: Código do Produto/Escritório, irrelevante para o desafio
+- Data: Data de referência da comissão
+- Nome Subestipulante: Irrelevante para o desafio
+- CPF/CNPJ Subestipulante: Irrelevante para o desafio
+- Código da verba: Código do Tipo da Verba
+- Nome da verba: Tipo da Verba
